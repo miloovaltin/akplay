@@ -1,16 +1,16 @@
 {
-"name": "akplay",
-"theme": "akplay",
-"version": "1.9.5",
-"description": "akplay ทางเข้าเว็บสล็อตเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"akplay",
-"akplay เครดิตฟรี",
-"akplay ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/akplay",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "akplay",
+  "theme": "akplay",
+  "version": "1.10.0",
+  "description": "akplay ทางเข้าเว็บสล็อตเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "akplay",
+    "akplay เครดิตฟรี",
+    "akplay ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/akplay",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
